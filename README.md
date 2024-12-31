@@ -1,4 +1,3 @@
-[![MasterHead](https://img.freepik.com/free-vector/programmer-working-web-development-code-engineer-programming-python-php-java-script-computer_90220-251.jpg?t=st=1735671916~exp=1735675516~hmac=658b834dbf912e383033a988d5493f2d92acb20d2f62d41f441ffcf81d8174ac&w=900)]
 <h1 align="center">Hey There!👋 I am Raghav</h1>
 <h3 align="center">A Fullstack And Software Developer</h3>
 <img align="right" alt="Coding" width="400"src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?t=st=1735671855~exp=1735675455~hmac=1bdf9f236fabbd7d2e82d4bf3664ef5dd454331f99e8f6bae28b43f083e5d136&w=1060")
